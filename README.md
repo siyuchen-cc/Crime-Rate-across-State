@@ -11,7 +11,7 @@ Therefore, I aim to explain the following three questions:
 • Is drug a primary issue for high crime rate?
 
 
-## Data Sources
+## Dataset
 1. Crime rate Dataset: 
 [Source](https://www.icpsr.umich.edu/web/NACJD/series/57?start=0&SERIESQ=57&ARCHIVE=NACJD&PUBLISH_STATUS=PUBLISHED&sort=DATEUPDATED%20desc&rows=50)
 
