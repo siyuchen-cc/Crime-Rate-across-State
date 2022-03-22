@@ -12,16 +12,16 @@ Therefore, I aim to explain the following three questions:
 
 
 ## Data Sources
-1. Crime rate Dataset
-[Source](https://www.icpsr.umich.edu/web/NACJD/series/57?start=0&SERIESQ=57&ARCHIVE=NACJ D&PUBLISH_STATUS=PUBLISHED&sort=DATEUPDATED%20desc&rows=50)
+1. Crime rate Dataset: 
+[Source](https://www.icpsr.umich.edu/web/NACJD/series/57?start=0&SERIESQ=57&ARCHIVE=NACJD&PUBLISH_STATUS=PUBLISHED&sort=DATEUPDATED%20desc&rows=50)
 
 
-2. Unemployment Dataset
+2. Unemployment Dataset: 
 [Source](https://www.ers.usda.gov/data-products/county-level-data-sets/download-data/)
 
 
-3. Income Dataset
+3. Income Dataset:
 [Source](census.gov/data/datasets/2016/demo/saipe/2016-state-and-county.html)
 
-4. Population Dataset
+4. Population Dataset: 
 [Source](https://www.ers.usda.gov/data-products/county-level-data-sets/download-data/)
