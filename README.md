@@ -6,9 +6,9 @@ Violent crimes, including robbery, aggravated assault, sexual assault, and murde
 In this project, I want to estimate the divergence of crime rate for different states. By exploring demographic characteristics across state and county, I intend to explain whether unemployment rate and income are associated with crimes rate. I also want to delve into specific types of crimes to see if there’s any type of crime that contributes most to crimes issue.
 
 Therefore, I aim to explain the following three questions:
-• What’s the general crime rate situation for United States? Which state has highest crime rate, and which has the lowest crime rate?
-• Is crime rate correlated with socio-economic factors: median household income and unemployment rate?
-• Is drug a primary issue for high crime rate?
+• What’s the general crime rate situation for United States? Which state has highest crime rate, and which has the lowest crime rate? \\
+• Is crime rate correlated with socio-economic factors: median household income and unemployment rate? \\
+• Is drug a primary issue for high crime rate? \\
 
 
 ## Dataset
