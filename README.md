@@ -27,8 +27,8 @@ Therefore, I aim to explain the following three questions:
 [Source](https://www.ers.usda.gov/data-products/county-level-data-sets/download-data/)
 
 
-## tools used 
-used Python to do data cleaning, EDA, and data visualization 
+## Programming Tool 
+used Python to do data cleaning, EDA, and data visualization    
 used Spark MapReduce and SparkSQL to import data
 
 
