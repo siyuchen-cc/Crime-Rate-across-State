@@ -29,6 +29,6 @@ Therefore, I aim to explain the following three questions:
 
 ## Programming Tool 
 used Python to do data cleaning, EDA, and data visualization    
-used Spark MapReduce and SparkSQL to import data
+used **Spark MapReduce** and **SparkSQL** to import data
 
 
